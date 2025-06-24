@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && export PYTHONPATH=/home/kavia/workspace/code-generation/eventmaster-56946-5ccbcf41/event_manager_backend_workspace/event_manager_backend/src/ && uvicorn src.api.main:app --host 0.0.0.0 --port <port> --reload",
+    "working_directory": "/home/kavia/workspace/code-generation/eventmaster-56946-5ccbcf41/event_manager_backend_workspace/event_manager_backend"
+}
